@@ -2,7 +2,7 @@
 ## I'm Ricardo Lopes
 - I live in 🇧🇷, Tocantins 😎🔥
 - I am a programming student 💻
-- I have been learnig more abount Javascript on Python ❤️
+- python is the technology i love ❤️
 
 ## Connect with me:
 <a href="https://www.instagram.com/ricardolptz/" target="_blank">
