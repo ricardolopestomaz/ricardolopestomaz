@@ -2,14 +2,9 @@
 ## I'm Ricardo Lopes
 - I live in 🇧🇷, Tocantins 😎🔥
 - I am a programming student 💻
-- I have been learnig more abount Javascript on Reactjs ❤️
+- I have been learnig more abount Javascript on Python ❤️
 
 ## Connect with me:
-
-<a href="https://www.linkedin.com/in/ricardo-lopes-tomaz-21b775217/" target="_blank">
-  <img aling="center" alt="Ricardo-linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-  style="max-width:100%;">
-</a>
 <a href="https://www.instagram.com/ricardolptz/" target="_blank">
   <img aling="center" alt="Ricardo-Instagram" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
   style="max-width:100%;">
@@ -32,12 +27,12 @@ style="max-width:100%;">
 <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 style="max-width:100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoLTz&layout=compact&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLTz&layout=compact)](https://github.com/RicardoLTz)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&layout=compact&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopestomaz&layout=compact)](https://github.com/ricardolopestomaz)
 
 
 <!--
-**RicardoLTz/RicardoLTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ricardolopestomaz/ricardolopestomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
