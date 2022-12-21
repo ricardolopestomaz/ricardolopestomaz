@@ -22,6 +22,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 style="max-width:100%;">
+<img alt="BOOTSTRAP" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
+style="max-width:100%;">
 <img alt="MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/npm/dbgate-plugin-mysql@5.1.6/icon.svg"
 style="max-width:100%;">
 <img alt="REACTJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
