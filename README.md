@@ -26,7 +26,7 @@ style="max-width:100%;">
 style="max-width:100%;">
 <img alt="MYSQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"
 style="max-width:100%;">
-<img alt="REACTJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+<img alt="LINUX" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"
 style="max-width:100%;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&layout=compact&show_icons=true&theme=dark)
