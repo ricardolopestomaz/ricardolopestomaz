@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Ricardo Lopes
-- I live in 🇧🇷, Tocantins 😎🔥
+- I live in Brazil🇧🇷, Tocantins☀️
 - Computer Technician at the Federal Institute of Education, Science and Technology of Tocantins 🇧🇷💻
 
 ## Connect with me:
