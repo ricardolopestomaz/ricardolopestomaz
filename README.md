@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## I'm Ricardo Lopes
 - I live in 🇧🇷, Tocantins 😎🔥
-- I am a programming student 💻
-- python is the technology i love ❤️
+- Computer Technician at the Federal Institute of Education, Science and Technology of Tocantins 🇧🇷💻
 
 ## Connect with me:
 <a href="https://www.instagram.com/ricardolptz/" target="_blank">
