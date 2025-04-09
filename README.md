@@ -18,20 +18,19 @@
 
 ## My Skills
 
-<img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-style="max-width:100%;">
-<img alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-style="max-width:100%;">
-<img alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-style="max-width:100%;">
-<img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-style="max-width:100%;">
-<img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-style="max-width:100%;">
-<img alt="BOOTSTRAP" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
-style="max-width:100%;">
-<img alt="MYSQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"
-style="max-width:100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="BOOTSTRAP" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="max-width:100%; margin: 5px;">
+  <img alt="MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%; margin: 5px;">
+  <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%; margin: 5px;">
+</div>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&layout=compact&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopestomaz&layout=compact)](https://github.com/ricardolopestomaz)
