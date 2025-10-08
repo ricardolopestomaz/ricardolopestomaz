@@ -4,16 +4,20 @@
 - Computer Technician at the Federal Institute of Tocantins (IFTO) and Computer Science Student at the Federal University of Tocantins (UFT) 🇧🇷💻
 
 ## Connect with me:
+
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/ricardo-lopes-tomaz-19053b297?originalSubdomain=br" target="_blank">
-  <img aling="center" alt="Ricardo-Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"
-  style="max-width:100%;">
+  <img align="center" alt="Ricardo-Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="max-width:100%;">
 </a>
 
 <!-- INSTAGRAM -->
 <a href="https://www.instagram.com/ricardolptz/" target="_blank">
-  <img aling="center" alt="Ricardo-Instagram" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
-  style="max-width:100%;">
+  <img align="center" alt="Ricardo-Instagram" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">
+</a>
+
+<!-- EMAIL -->
+<a href="mailto:ricardolptz42@gmail.com" target="_blank">
+  <img align="center" alt="Ricardo-Email" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="max-width:100%;">
 </a>
 
 ## My Skills
