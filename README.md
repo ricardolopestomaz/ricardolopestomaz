@@ -10,11 +10,6 @@
   <img align="center" alt="Ricardo-Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="max-width:100%;">
 </a>
 
-<!-- INSTAGRAM -->
-<a href="https://www.instagram.com/ricardolptz/" target="_blank">
-  <img align="center" alt="Ricardo-Instagram" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">
-</a>
-
 <!-- EMAIL -->
 <a href="mailto:ricardolptz42@gmail.com" target="_blank">
   <img align="center" alt="Ricardo-Email" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="max-width:100%;">
@@ -26,9 +21,6 @@
   <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%; margin: 5px;">
-  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%; margin: 5px;">
-  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%; margin: 5px;">
-  <img alt="BOOTSTRAP" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="max-width:100%; margin: 5px;">
   <img alt="MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%; margin: 5px;">
   <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%; margin: 5px;">
