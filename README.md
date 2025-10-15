@@ -1,25 +1,4 @@
-### Hi there 👋
-## I'm Ricardo Lopes
-- I live in Brazil🇧🇷, Tocantins☀️
-- Computer Technician at the Federal Institute of Tocantins (IFTO) and Computer Science Student at the Federal University of Tocantins (UFT) 🇧🇷💻
-
-## Connect with me:
-
-<!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/ricardo-lopes-tomaz-19053b297?originalSubdomain=br" target="_blank">
-  <img align="center" alt="Ricardo-Linkedin" height="35" width="35" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="max-width:100%;">
-</a>
-
-<!-- EMAIL -->
-<a href="mailto:ricardolptz42@gmail.com" target="_blank">
-  <img align="center" alt="Ricardo-Email" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="max-width:100%;">
-</a>
-
-## My Skills
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%; margin: 5px;">
-
   <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%; margin: 5px;">
 
 
@@ -31,23 +10,17 @@
 
 </div>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&layout=compact&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopestomaz&layout=compact)](https://github.com/ricardolopestomaz)
-
-
-<!--
-**ricardolopestomaz/ricardolopestomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lopes-tomaz-19053b297?originalSubdomain=br)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ricardolptz42@gmail.com)](mailto:ricardolptz42@gmail.com)
+<br>
+<br>
+<div align="center">
+     <img width="49%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=ricardolopestomaz&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=288CB8FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+     <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ricardolopestomaz&layout=compact&theme=transparent&hide_border=true&title_color=288CB8FF&text_color=00bfbf&bg_color=0d1117"/>
+</div>
+<br>
+<br>
+<br>
+<div align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
