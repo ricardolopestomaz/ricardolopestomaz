@@ -18,7 +18,6 @@
 ## My Skills
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%; margin: 5px;">
   <img alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%; margin: 5px;">
