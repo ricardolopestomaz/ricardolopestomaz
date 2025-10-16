@@ -1,30 +1,73 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width:100%; margin: 5px;">
+<!-- README do perfil GitHub de Ricardo Lopes Tomaz -->
+
+<!-- Cabeçalho animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
+
+<!-- Título e Apresentação -->
+<h1 align="center">👋 Olá! Eu sou o Ricardo Lopes Tomaz</h1>
+
+<p align="center">
+Sou desenvolvedor <strong>Back-End Java</strong> com experiência em <strong>Spring Boot</strong> e <strong>MySQL</strong>.  
+Apaixonado por tecnologia, gosto de transformar ideias em soluções reais e eficientes.  
+Atualmente estudando e desenvolvendo projetos acadêmicos e pessoais focados em boas práticas de programação e arquitetura.
+</p>
+
+---
+
+### 🚀 Tecnologias que utilizo
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin: 5px;">
   <img alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 5px;">
-  <img alt="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width:100%; margin: 5px;">
+  <img alt="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="margin: 5px;">
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 5px;">
-
+  <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 5px;">
+  <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 5px;">
+  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 5px;">
 </div>
 
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lopes-tomaz-19053b297?originalSubdomain=br)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ricardolptz42@gmail.com)](mailto:ricardolptz42@gmail.com)
+---
 
-<br>
-<br>
+### 💼 Projetos em destaque
+
+📌 **[Projeto - API Locadora de Carro](https://github.com/ricardolopestomaz/Car-Rental-API-Spring-Boot)**  
+API REST em Spring Boot para gerenciamento de clientes e carros disponíveis para aluguel.<br>
+🎯 Objetivo: permitir criar, ler, atualizar e excluir clientes e carros, demonstrando uma implementação completa de CRUD.
+
+📌 **[Projeto Acadêmico - Labirinto genético](https://github.com/ricardolopestomaz/genetic-maze)**  
+Projeto que utiliza técnicas de computação evolutiva para resolver problemas de navegação em labirintos.<br>
+🎯 Objetivo: evoluir movimentos no mapa por meio de seleção, cruzamento e mutação dos cromossomos de cada indivíduo.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=288CB8FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/ricardolopestomaz">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ricardolopestomaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardolopestomaz&layout=compact&langs_count=8&card_width=320z&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=288CB8FF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/ricardolopestomaz">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardolopestomaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
   </a>
 </div>
 
-<br>
-<br>
-<br>
+---
+
+### 📫 Contatos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-lopes-tomaz-19053b297?originalSubdomain=br">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ricardolptz42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
