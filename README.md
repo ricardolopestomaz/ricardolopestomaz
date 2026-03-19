@@ -9,14 +9,14 @@
 <h1 align="center">👋 Olá! Eu sou o Ricardo Lopes Tomaz</h1>
 
 <p align="center">
-🚀 <strong>Desenvolvedor Python & Aspirante a Analista de Dados</strong> 📊
+🚀 <strong>Profissional de TI & Estudante de Ciência da Computação (UFT)</strong> 📊
 </p>
 <p align="center">
-Atualmente atuo na <strong>TI da Prefeitura de Palmas</strong> e curso Ciência da Computação na <strong>UFT</strong>.
-Focado no desenvolvimento de soluções utilizando <strong>Python</strong> e na manipulação de bancos de dados <strong>SQL</strong>.
+Atualmente atuo na <strong>TI da Prefeitura de Palmas</strong>, onde foco em infraestrutura, suporte técnico e redes.
+Em paralelo, dedico minha formação acadêmica e projetos pessoais à <strong>Análise de Dados</strong> e <strong>Python</strong>.
 </p>
 <p align="center">
-💡 Dedico meus estudos à <strong>Análise de Dados</strong> e fundamentos de <strong>IA</strong>, buscando transformar grandes volumes de informação em insights estratégicos e decisões inteligentes.
+💡 Meu objetivo é unir a experiência prática em sistemas e redes (<strong>CCNA 1 e 2</strong>) com o poder da ciência de dados para criar soluções inteligentes e otimizadas.
 </p>
 
 ---
