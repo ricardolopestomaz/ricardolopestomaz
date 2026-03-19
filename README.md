@@ -9,9 +9,14 @@
 <h1 align="center">👋 Olá! Eu sou o Ricardo Lopes Tomaz</h1>
 
 <p align="center">
-Sou desenvolvedor <strong>Back-End Java</strong> com experiência em <strong>Spring Boot</strong> e <strong>MySQL</strong>.  
-Apaixonado por tecnologia, gosto de transformar ideias em soluções reais e eficientes.  
-Atualmente estudando e desenvolvendo projetos acadêmicos e pessoais focados em boas práticas de programação e arquitetura.
+🚀 <strong>Desenvolvedor Python & Aspirante a Analista de Dados</strong> 📊
+</p>
+<p align="center">
+Atualmente atuo na <strong>TI da Prefeitura de Palmas</strong> e curso Ciência da Computação na <strong>UFT</strong>.
+Focado no desenvolvimento de soluções utilizando <strong>Python</strong> e na manipulação de bancos de dados <strong>SQL</strong>.
+</p>
+<p align="center">
+💡 Dedico meus estudos à <strong>Análise de Dados</strong> e fundamentos de <strong>IA</strong>, buscando transformar grandes volumes de informação em insights estratégicos e decisões inteligentes.
 </p>
 
 ---
