@@ -1,11 +1,11 @@
 <div align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AI%20Engineering%20|%20Data%20Science&fontSize=40"/> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AI%20Engineering%20|%20Machine%20Learning&fontSize=35"/> 
  </div> 
   
  <h1 align="center">👋 Hi, I'm Ricardo Lopes Tomaz</h1> 
   
  <p align="center"> 
- 🚀 <strong>IT Professional | Computer Science Student (UFT) | Aspiring AI Engineer</strong> 📊 
+ 🚀 <strong>Computer Science Student (UFT) | AI Engineering & Data Science</strong> 📊 
  </p> 
 
  <p align="center">
@@ -13,12 +13,12 @@
  </p>
 
  <p align="center"> 
- Currently working at <strong>Palmas Municipal IT Department</strong>, focusing on infrastructure and networking. 
- I am pivoting my career towards <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>, leveraging my background in <strong>Python</strong> and <strong>Data Science</strong>.
+ Currently working at the <strong>Palmas Municipal Government</strong>, focusing on IT systems and data management. 
+ I am specializing in <strong>Python</strong>, <strong>NLP</strong>, and <strong>Large Language Models (LLMs)</strong> to build intelligent applications.
  </p> 
 
  <p align="center"> 
- 💡 My goal is to bridge the gap between robust infrastructure (<strong>CCNA certified</strong>) and intelligent systems to build scalable AI solutions. 
+ 💡 My focus is on integrating AI models into real-world products and optimizing data-driven decision-making.
  </p> 
   
  --- 
@@ -31,20 +31,20 @@
    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
    <img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
    <br><br>
-   <img alt="Cisco" src="https://img.shields.io/badge/Cisco_CCNA-005A70?style=for-the-badge&logo=cisco&logoColor=white">
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  </div> 
   
  --- 
   
- ### 🧪 Featured AI & Data Projects
+ ### 🧪 Featured Projects
   
- 📌 **[Genetic Maze Solver](https://github.com/ricardolopestomaz/genetic-maze)** An evolutionary computing project that solves complex navigation problems using Genetic Algorithms.<br> 
- 🎯 **Focus:** Selection, Crossover, and Mutation logic in Python.
-  
- 📌 **[Car Rental API](https://github.com/ricardolopestomaz/Car-Rental-API-Spring-Boot)** A RESTful API built with Spring Boot for vehicle management.<br> 
- 🎯 **Focus:** System architecture and CRUD operations.
+ 📌 **[Genetic Maze Solver](https://github.com/ricardolopestomaz/genetic-maze)** An evolutionary computing project using Genetic Algorithms to solve navigation challenges.<br> 
+ 🎯 **Keywords:** Genetic Algorithms, Optimization, Python.
+
+ 📌 **[Car Rental API](https://github.com/ricardolopestomaz/Car-Rental-API-Spring-Boot)** A robust backend application for fleet management.<br> 
+ 🎯 **Keywords:** Java, Spring Boot, REST API.
   
  --- 
   
